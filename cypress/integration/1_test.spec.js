@@ -4,7 +4,7 @@ describe('Mobile phone replenishment', () => {
 
   context("Faceboock",() => {
 
- ///add commit
+ ///add commit new
 
       it('Using Get with Find and eq', function () {
         cy.visit('https://next.privat24.ua/deposit/open')
